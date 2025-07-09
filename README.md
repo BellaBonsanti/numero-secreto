@@ -13,6 +13,9 @@
 
 # Time
 
-<sub>Isabella Bonsanti ![essa](https://github.com/user-attachments/assets/722f63e3-fb1d-4c52-bedf-d961d4f9c8a8)
+<sub>Isabella Bonsanti
+
+![foto de perfil do github](https://github.com/user-attachments/assets/6381fa02-9b7d-4f2e-a563-4f6fc50e2678)
+
 
 https://github.com/bella-bonsanti
