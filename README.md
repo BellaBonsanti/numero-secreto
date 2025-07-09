@@ -1,4 +1,4 @@
-@@ -0,0 +1,16 @@
+
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
@@ -13,4 +13,4 @@
 
 # Time
 
-<sub>Isabella Bonsanti</sub>](https://github.com/bella-bonsanti)> 
+<sub>Isabella Bonsanti </sub>](https://github.com/bella-bonsanti)> 
